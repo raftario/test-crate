@@ -1,6 +1,6 @@
 [package]
 name = "test-crate"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["raph <raphael_theriault@outlook.com>"]
 edition = "2018"
 description = "Test crate"
