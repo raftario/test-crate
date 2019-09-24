@@ -3,6 +3,11 @@ name = "test-crate"
 version = "0.1.0"
 authors = ["raph <raphael_theriault@outlook.com>"]
 edition = "2018"
+description = "Test crate"
+license = "Unlicense"
+homepage = "https://github.com/raftario/test-crate"
+repository = "https://github.com/raftario/test-crate.git"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
